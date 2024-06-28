@@ -10,3 +10,5 @@ vless://092f3363-3980-4c0f-a7e0-5a3a59511f1e@14.102.228.64:443?encryption=none&s
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.102:5001#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?encryption=none&security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60
 vless://5527f357-cb4c-4254-9545-c8a0034ce1db@2.189.59.2:443?encryption=none&security=tls&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&type=grpc&authority=&serviceName=Channel%3A%40UnlimitedDev&mode=gun#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Capoit%20%7C%207
+hysteria2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-181.215.32.174%3A4380
+hysteria2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-144.48.81.171%3A4380
