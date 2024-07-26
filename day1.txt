@@ -1,4 +1,5 @@
 vless://acaacbb-acba-acab-dbac-acbacbbcacba@127.0.0.1:1080?encryption=none&security=tls&type=tcp&headerType=none#🔄 LATEST-UPDATE 📅 5 Mordad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#0-%20%E2%9A%AA%20%7C%20%40flowtunnelvpn
 vless://1ae8e1c7-ba9b-47e4-e5aa-d450409ff772@www.bandmusic.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws1.cloudfront.net.kiava.fun&path=%2F#1- ⚪ | @flowtunnelvpn
 trojan://telegram-id-privatevpns@16.171.252.13:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#2- 🇸🇪 | @flowtunnelvpn
 vless://2d2c569b-b8e6-458d-83dd-ba59af8c2d17@185.146.173.58:8080?encryption=none&security=none&type=ws&host=kony69.servernet.fun.&path=%2Fservernett#3- 🇸🇪 | @flowtunnelvpn
