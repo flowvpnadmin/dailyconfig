@@ -1,4 +1,5 @@
 vless://acaacbb-acba-acab-dbac-acbacbbcacba@127.0.0.1:1080?encryption=none&security=tls&type=tcp&headerType=none#🔄 LATEST-UPDATE 📅 11 Mordad
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?encryption=none&security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=BbF9c21a.TecHNETbpB.paGEs.dEv&path=%2F#0-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40flowtunnelvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#1- 🇺🇸 | @flowtunnelvpn
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04tLVpFRE1PREVPTi0tWkVETU9ERU9O@45.145.42.70:25367#2- 🇩🇪 | @flowtunnelvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#3- 🇺🇸 | @flowtunnelvpn
