@@ -1,16 +1,16 @@
-vless://acaacbb-acba-acab-dbac-acbacbbcacba@127.0.0.1:1080?encryption=none&security=tls&type=tcp&headerType=none#🔄 UPDATE 📅 6 Shahrivar
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@check-host.net:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#1- 🇩🇪 | @mf_stxrboy | YT/GPT
-vless://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?encryption=none&security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#2- 🇮🇹 | @mf_stxrboy
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@www.speedtest.net:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#3- 🇩🇪 | @mf_stxrboy | YT/GPT
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@check-host.net:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#4- 🇩🇪 | @mf_stxrboy | YT/GPT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#5- 🇦🇪 | @mf_stxrboy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#6- 🇬🇧 | @mf_stxrboy
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@www.parspack.com:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#7- 🇩🇪 | @mf_stxrboy | YT/GPT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#8- 🇧🇭 | @mf_stxrboy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#9- 🇬🇧 | @mf_stxrboy
-vless://a33a4892-8d1b-45f8-a9f1-cef297dc3a8f@85.234.106.16:29329?encryption=none&security=none&type=tcp&headerType=none#10- 🇷🇺 | @mf_stxrboy
-vless://5c62a04e-8519-44bc-8cf9-2b883d981c1c@185.146.173.58:8080?encryption=none&security=none&type=ws&host=lc11.lebasnoo.ir.&path=%2Fservernett#11- 🇩🇪 | @mf_stxrboy | YT/GPT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#12- 🇬🇧 | @mf_stxrboy
-vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@172.67.207.26:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#13- 🇩🇪 | @mf_stxrboy | YT/GPT
-vmess://eyJ2IjoiMiIsInBzIjoiMTQtIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyB8IEBtZl9zdHhyYm95IiwiYWRkIjoiMTcyLjY3LjE3NC40MiIsInBvcnQiOiI0NDMiLCJpZCI6ImJjODY0MDc4LWRjZjMtNGJmNC04ZGJmLWNhOWYyMDBiNTZiZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnd2RlZi5zYnMiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Imd3ZGVmLnNicyIsImFscG4iOiIiLCJmcCI6IiJ9
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@108.162.196.21:80?encryption=none&security=none&type=ws&host=www.speedtest.net.1.1.1.4588.5.xn--g28h.dns-dynamic.net.&path=%2FTelegram-XV2ry2%3Fed%3D512#15- 🇩🇪 | @mf_stxrboy
+vless://acaacbb-acba-acab-dbac-acbacbbcacba@127.0.0.1:1080?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%206%20Shahrivar
+vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@check-host.net:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#1-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+vless://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?encryption=none&security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#2-%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40mf_stxrboy
+vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@www.speedtest.net:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#3-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@check-host.net:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#4-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#5-%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%40mf_stxrboy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#6-%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40mf_stxrboy
+vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@www.parspack.com:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#7-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#8-%20%F0%9F%87%A7%F0%9F%87%AD%20%7C%20%40mf_stxrboy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#9-%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40mf_stxrboy
+vless://a33a4892-8d1b-45f8-a9f1-cef297dc3a8f@85.234.106.16:29329?encryption=none&security=none&type=tcp&headerType=none#10-%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%40mf_stxrboy
+vless://5c62a04e-8519-44bc-8cf9-2b883d981c1c@185.146.173.58:8080?encryption=none&security=none&type=ws&host=lc11.lebasnoo.ir.&path=%2Fservernett#11-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#12-%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40mf_stxrboy
+vless://f27dd87e-d7ed-45c2-9ada-372f0fd9c754@172.67.207.26:80?encryption=none&security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2F%3Fed%3D2048#13-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+vmess://eyJ2IjoiMiIsInBzIjoiMTQtJTIwJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwJTdDJTIwJTQwbWZfc3R4cmJveSIsImFkZCI6IjE3Mi42Ny4xNzQuNDIiLCJwb3J0IjoiNDQzIiwiaWQiOiJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ3dkZWYuc2JzIiwicGF0aCI6Ii9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnd2RlZi5zYnMiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@108.162.196.21:80?encryption=none&security=none&type=ws&host=www.speedtest.net.1.1.1.4588.5.xn--g28h.dns-dynamic.net.&path=%2FTelegram-XV2ry2%3Fed%3D512#15-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy
