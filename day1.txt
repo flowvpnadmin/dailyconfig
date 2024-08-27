@@ -1,6 +1,6 @@
 vless://acaacbb-acba-acab-dbac-acbacbbcacba@127.0.0.1:1080?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%206%20Shahrivar
 vless://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?encryption=none&security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#01-%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40mf_stxrboy
-vless://1361c792-ffa7-4230-8f86-0d57f65a900d@193.151.141.217:4000?encryption=none&security=none&type=tcp&headerType=http&host=sheypoor.com#02-%20%3AT%C3%BCrkiye%3A%20%7C%20%40mf_stxrboy
+vless://1361c792-ffa7-4230-8f86-0d57f65a900d@193.151.141.217:4000?encryption=none&security=none&type=tcp&headerType=http&host=sheypoor.com#02-%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%40mf_stxrboy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#03-%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40mf_stxrboy
 trojan://telegram-id-privatevpns@18.153.216.44:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#04-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#05-%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20%40mf_stxrboy
