@@ -1,4 +1,4 @@
-vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2018%20Shahrivar
+vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2019%20Shahrivar
 vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:13189?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&headerType=none&type=tcp#01-%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
 vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=tcp&path=%2F&host=fast.com&headerType=http&security=none#02-%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40mf_stxrboy
 vless://2f334b88-470a-48c7-a620-8d73bc539005@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=melofin.ir&fp=firefox&type=ws&sni=speedtest.net#03-%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
