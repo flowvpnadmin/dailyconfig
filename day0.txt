@@ -1,5 +1,5 @@
 vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2030%20Farvardin%20%7C%2018%3A00
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.39:8880?type=grpc#01-%20%3ARepublic_of_Lithuania%3A%20%7C%20%40mf_stxrboy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.39:8880?type=grpc#01-%20%3ALithuania%3A%20%7C%20%40mf_stxrboy
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?security=none&type=grpc#02-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc#03-%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40mf_stxrboy%20%7C%20Spotify
 vless://00da4e80-454a-4c96-a1f2-86989110f87a@173.245.58.100:2052?security=none&type=httpupgrade&host=Ser2.serrjioo.ir&path=%2FGoodLuck%3Fed%3D2560#04-%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40mf_stxrboy%20%7C%20Spotify
