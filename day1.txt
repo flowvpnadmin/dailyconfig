@@ -1,16 +1,16 @@
-vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2028%20Ordibehesht%20%7C%2018%3A00
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#01-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.137:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#02-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#03-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.147.19:8880?security=none&type=grpc#04-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.103:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#05-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=none&type=grpc#06-%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#07-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.225:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#08-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.134:8880?type=ws&host=us.laoyoutiao.link&path=Telegram#09-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#10-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#11-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.15:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare+@WangCai2+/?ed=2560#12-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.152:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#13-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.233:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?type=grpc#15-%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20%40mf_stxrboy
+vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2029%20Ordibehesht%20%7C%206%3A00
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?type=grpc#01-%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20%40mf_stxrboy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?security=none&type=grpc#02-%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20%40mf_stxrboy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc#03-%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20%40mf_stxrboy
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?security=none&type=grpc#04-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.99:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#05-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?type=grpc#06-%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20%40mf_stxrboy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?type=grpc#07-%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=%2F%3Fed%3D2560#08-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.147.19:8880?security=none&type=grpc#09-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.12.75.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#10-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://c9aa0aa2-919f-4c46-ad7f-1c0575b25589@157.90.114.55:40262?security=none&type=tcp&host=www.uptvs.com&headerType=http#11-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#12-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://ce4639ef-2a2d-4d02-9808-87083647677e@172.67.187.251:2095?type=ws&host=515.vannoot.workers.dev&path=%2F%3Fed%3D2560#13-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?security=none&type=grpc#14-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#15-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy%20%7C%20Spotify
