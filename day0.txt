@@ -1,6 +1,2 @@
-vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2023%20Khordad%20%7C%2020%3A00
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880?security=none&type=grpc#01-%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40mf_stxrboy
-vless://619e1f95-8fd7-472b-b687-0b911084765c@ruyalmod.com:5365?security=&encryption=none&host=ruyalmod.com&headerType=http&type=tcp#02-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
-vless://03519d6b-031b-41a7-b59f-56982f2f5369@sir24.pendarco.net:48165?security=&encryption=none&headerType=none&type=tcp#03-%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40mf_stxrboy
-vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@poshtiban.alireza031.org:927?path=%2FPoshtiban&security=&encryption=none&type=ws#04-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?path=%2F&security=&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#05-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy
+vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2023%20Khordad%20%7C%2022%3A00
+vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@poshtiban.alireza031.org:927?path=%2FPoshtiban&security=&encryption=none&type=ws#01-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20Spotify
