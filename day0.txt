@@ -1,5 +1,4 @@
 vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2025%20Khordad%20%7C%206%3A00
 vless://8c15cc84-2bec-f384-6044-399800ead842@vssweb.ir:40100?security=none&encryption=none&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#01-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT
-vless://787349d6-6ab5-402e-bf45-b9d57843beeb@85.9.120.32:26948/?security=none&encryption=none&headerType=none&type=tcp#02-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20Spotify
-vless://6fcf8763-d06e-4699-a0ee-b32aac49fe49@dearth302.placestores.top:12972?type=tcp&path=/&security=none&host=speedtest.net&headerType=http#03-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880/?path=%2F&security=&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#04-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://6fcf8763-d06e-4699-a0ee-b32aac49fe49@dearth302.placestores.top:12972?type=tcp&path=/&security=none&host=speedtest.net&headerType=http#02-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20YT/GPT/Spotify
+vless://787349d6-6ab5-402e-bf45-b9d57843beeb@85.9.120.32:26948/?security=none&encryption=none&headerType=none&type=tcp#03-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20Spotify
