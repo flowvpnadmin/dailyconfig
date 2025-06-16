@@ -1,2 +1,4 @@
 vless://stxxrboy-stxr-stxr-stxr-stxxxxxxrboy@127.0.0.1:5483?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%94%84%20UPDATE%20%F0%9F%93%85%2026%20Khordad%20%7C%207%3A00
 vless://83d9685d-cf18-4f79-857f-4149fa93abbc@g1free.lalash.ir:28995?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#01-%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40mf_stxrboy%20%7C%20Spotify
+vless://0067ad9a-7dc8-215c-4af9-62648743c931@92.38.145.145:443?security=tls&sni=swe.foldandflyhigh.com&type=ws&host=swe.foldandflyhigh.com&path=%2F#02-%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40mf_stxrboy
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#03-%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%40mf_stxrboy
